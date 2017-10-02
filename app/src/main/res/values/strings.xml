@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Continent1</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_coins">Coins</string>
+    <string name="title_activity_choice">Choice</string>
+    <string name="messageDialog">انتهت الاسئله هل تريد مراجعه</string>
+    <string name="Dialog">انتهت الأسئلة</string>
+    <string name="YesAnswer">نعم</string>
+    <string name="NoMessage">لا</string>
+    <string name="SearchList">ابحث</string>
+</resources>

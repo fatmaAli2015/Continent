@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navContinents"
+            android:icon="@drawable/ic_world_black_24dp"
+            android:title="Continents" />
+        <item
+            android:id="@+id/navCoins"
+            android:icon="@drawable/ic_monetization_on_black_24dp"
+            android:title="Coins" />
+        <item
+            android:id="@+id/navChoose"
+            android:icon="@drawable/button_action_dark_selector"
+            android:title="Q:Choose" />
+        <item
+            android:id="@+id/nav_yesNo"
+            android:icon="@drawable/ic_check_black_24dp"
+            android:title="Q:yes/No" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_email_black_24dp"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>
